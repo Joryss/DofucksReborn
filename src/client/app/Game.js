@@ -12,7 +12,7 @@ class Game extends React.Component {
 
   render() {
     return (
-      <iframe src={"./game.html?appVersion=1.12.0"} style={iframe}/>
+      <iframe src={"./game.html?appVersion=1.14.5"} style={iframe}/>
     )
   }
 }
